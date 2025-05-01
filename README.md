@@ -3,7 +3,7 @@
 <h3 align="center">Engineer. Innovator. Lifelong Learner.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utthamr18&label=Profile%20views&color=0e75b6&style=flat" alt="utthamr18" /> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
