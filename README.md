@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/s8UHGqq9xqJmwZZtHn/giphy.webp?cid=790b7611ubb0ubcz5q8n0fp4qxr57rubct7ao2lr9qdwn6ge&ep=v1_gifs_search&rid=giphy.webp&ct=g)]
+
 <h1 align="center">Hi 👋, I'm Uttham R</h1>
 <h3 align="center">Engineer. Innovator. Lifelong Learner.</h3>
 
